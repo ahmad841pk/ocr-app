@@ -1,6 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Note
+This app currently reads only some fields from the Pakistani passport.
 
 ## Getting Started
+Node: v22.17.1
 
 First, run the development server:
 
