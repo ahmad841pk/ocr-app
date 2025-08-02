@@ -1,0 +1,18 @@
+export const readableFieldNames = {
+    documentCode: "Document Code",
+    issuingCountry: "Issuing Country",
+    lastName: "Last Name",
+    firstNames: "First Names",
+    passportNumber: "Passport Number",
+    passportNumberCheck: "Passport Number Check Digit",
+    nationality: "Nationality",
+    birthDate: "Date of Birth (YYMMDD)",
+    birthDateCheck: "DOB Check Digit",
+    sex: "Sex",
+    expiryDate: "Expiry Date (YYMMDD)",
+    expiryDateCheck: "Expiry Date Check Digit",
+    personalNumber: "Personal Number",
+    personalNumberCheck: "Personal Number Check Digit",
+    mrzLine1: "MRZ Line 1",
+    mrzLine2: "MRZ Line 2",
+};
